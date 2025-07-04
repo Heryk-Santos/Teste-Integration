@@ -1,4 +1,4 @@
-[
+{ "posts":[
   {
     "tipo": "TIPODEPOSITO",
     "acao": "Eliminar",
@@ -11,3 +11,4 @@
     }
   }
 ]
+}
